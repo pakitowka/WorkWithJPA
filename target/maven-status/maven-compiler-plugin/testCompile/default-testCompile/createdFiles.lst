@@ -1,0 +1,3 @@
+com\andrew\dataexam\test\service\BankServiceTest.class
+com\andrew\dataexam\test\config\TestDataBaseConfig.class
+com\andrew\dataexam\test\util\BankUtil.class
